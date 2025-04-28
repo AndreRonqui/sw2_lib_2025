@@ -1,0 +1,3 @@
+@url = https://animated-spoon-q7v7r57ggwx53xw6-3000.app.github.dev/
+
+GET {{url}}/api/v1/generos
